@@ -1,6 +1,7 @@
 # Smartphone Photo Dual-Polarimetric Radar Analysis 
+Carter J. Humphreys
 
-Author: Carter J. Humphreys
+Email: [chumphre@oswego.edu](mailto:chumphre@oswego.edu) | GitHub:[@HumphreysCarter](https://github.com/HumphreysCarter) | Website: [carterhumphreys.com](http://carterhumphreys.com/)
 
 ## Installation
 ```
