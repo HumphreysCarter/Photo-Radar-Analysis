@@ -9,7 +9,8 @@ git clone https://github.com/HumphreysCarter/Photo-Radar-Analysis.git
 ```
 
 ## System Requirements
-* Python 3.7
+* Python 3.7 / IPython 3.7
+* notebook
 * s3fs
 * boto3
 * NumPy
