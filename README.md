@@ -1,5 +1,6 @@
 # Smartphone Photo Dual-Polarimetric Radar Analysis 
-Carter J. Humphreys
+**Carter J. Humphreys**
+*Department of Atmospheric and Geological Sciences, State University of New York at Oswego, Oswego, New York*
 
 Email: [chumphre@oswego.edu](mailto:chumphre@oswego.edu) | GitHub:[@HumphreysCarter](https://github.com/HumphreysCarter) | Website: [carterhumphreys.com](http://carterhumphreys.com/)
 
